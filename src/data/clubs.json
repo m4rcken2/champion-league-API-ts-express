@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "FC Barcelona"
+    },
+    {
+        "id": 3,
+        "name": "Bayern Munich"
+    },
+    {
+        "id": 4,
+        "name": "Manchester City"
+    },
+    {
+        "id": 5,
+        "name": "Manchester United"
+    },
+    {
+        "id": 6,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 7,
+        "name": "Liverpool"
+    },
+    {
+        "id": 8,
+        "name": "Chelsea"
+    },
+    {
+        "id": 9,
+        "name": "Juventus"
+    },
+    {
+        "id": 10,
+        "name": "Atletico Madrid"
+    },
+    {
+        "id": 11,
+        "name": "Inter Milan"
+    },
+    {
+        "id": 12,
+        "name": "AC Milan"
+    },
+    {
+        "id": 13,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 14,
+        "name": "RB Leipzig"
+    },
+    {
+        "id": 15,
+        "name": "Sevilla"
+    },
+    {
+        "id": 16,
+        "name": "Tottenham Hotspur"
+    },
+    {
+        "id": 17,
+        "name": "Napoli"
+    },
+    {
+        "id": 18,
+        "name": "Benfica"
+    },
+    {
+        "id": 19,
+        "name": "Porto"
+    },
+    {
+        "id": 20,
+        "name": "Ajax"
+    },
+    {
+        "id": 21,
+        "name": "Lyon"
+    },
+    {
+        "id": 22,
+        "name": "Villarreal"
+    },
+    {
+        "id": 23,
+        "name": "Zenit St. Petersburg"
+    },
+    {
+        "id": 24,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 25,
+        "name": "Atalanta"
+    },
+    {
+        "id": 26,
+        "name": "Lazio"
+    },
+    {
+        "id": 27,
+        "name": "Monaco"
+    },
+    {
+        "id": 28,
+        "name": "Lokomotiv Moscow"
+    },
+    {
+        "id": 29,
+        "name": "Club Brugge"
+    },
+    {
+        "id": 30,
+        "name": "Galatasaray"
+    },
+    {
+        "id": 31,
+        "name": "Olympiakos"
+    },
+    {
+        "id": 32,
+        "name": "Red Bull Salzburg"
+    }
+]
