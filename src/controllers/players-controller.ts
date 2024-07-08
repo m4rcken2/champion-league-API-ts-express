@@ -1,6 +1,6 @@
 import {Request, Response} from 'express'
 import * as service from '../services/players-service'
-import { badRequest } from '../../utils/http-response'
+import { badRequest } from '../utils/http-response'
 import { StatModel } from '../models/stat-model'
 
 export const getPlayers = async(req:Request, res:Response)=>{
@@ -39,3 +39,4 @@ export const deletePlayerById = async (req:Request, res: Response)=>{
 
     res.status(response.statusCode).json(response.body)
 }
+

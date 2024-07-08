@@ -1,4 +1,4 @@
-import * as HttpResponse from "../../utils/http-response"
+import * as HttpResponse from "../utils/http-response"
 import { PlayerModel } from "../models/players-model"
 import { StatModel } from "../models/stat-model"
 import * as repository from "../repositories/players-repository"

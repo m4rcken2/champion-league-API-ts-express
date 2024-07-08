@@ -1,4 +1,4 @@
-import { noContent, ok } from "../../utils/http-response"
+import { noContent, ok } from "../utils/http-response"
 import { findAllClubs } from "../repositories/clubs-repository"
 
 
